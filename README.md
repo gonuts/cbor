@@ -1,6 +1,8 @@
 cbor
 ====
 
+[![GoDoc](https://godoc.org/github.com/gonuts/cbor?status.svg)](https://godoc.org/github.com/gonuts/cbor)
+
 `cbor` is a thin wrapper around [cbor](https://github.com/ugorji/go/codec) and
 exposes a familiar `Encoder`/`Decoder` API (a la `json`.)
 
@@ -9,6 +11,11 @@ exposes a familiar `Encoder`/`Decoder` API (a la `json`.)
 ```sh
 $ go get github.com/gonuts/cbor
 ```
+
+## Documentation
+
+Documentation is available on [godoc](https://godoc.org/github.com/gonuts/cbor):
+ https://godoc.org/github.com/gonuts/cbor
 
 ## Example
 
